@@ -1,6 +1,6 @@
 # 👋 Dmitry Rippa
 
-**Senior Fullstack Developer / Lead Architect**
+**Fullstack Developer / Lead Architect**
 
 PropTech & Smart City • TypeScript, Node.js, React
 
