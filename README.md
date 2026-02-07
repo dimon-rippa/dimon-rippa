@@ -2,8 +2,7 @@
 
 **Senior Fullstack Developer / Lead Architect**
 
-PropTech & Smart City • TypeScript, Node.js, React  
-📍 Saint Petersburg, Russia | Open to Remote & Relocation
+PropTech & Smart City • TypeScript, Node.js, React
 
 ---
 
@@ -29,6 +28,9 @@ High-load microservices platform for a Top-3 real estate agency in Russia. 100K+
 
 ### Telegram Bot Catalog for Realtors
 First professional Telegram bot in Russia with a complete new buildings catalog. Used by hundreds of real estate agents.
+
+### Nuanu Smart City (Bali, Indonesia)
+Digital ecosystem for an innovative smart city: venue booking system with role-based access, calendar integrations, and real estate platform.
 
 ---
 
